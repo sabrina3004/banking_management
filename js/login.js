@@ -10,6 +10,6 @@ const  submit = document.getElementById("submit-buttton").addEventListener("clic
        return
     }
     if(email === "admin123@gmail.com" && password === "1234567"){
-        window.location.href = "../banking.html"
+        window.location.href = "banking.html"
     }
 })
